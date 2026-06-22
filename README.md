@@ -38,7 +38,7 @@ I build dashboards, SaaS tools, and modern web apps with clean UI and real funct
 
 ## 🔥 Streak
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=iamsyedbilal&theme=tokyonight&hide_border=true" />
 </p>
 
