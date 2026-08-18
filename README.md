@@ -2,10 +2,11 @@
 
 # Hey, I'm Syed Bilal 👋
 
-### Full-Stack Developer • Backend-focused • Builder of useful things
+### Backend-focused Full-Stack Developer · Builder · Learner
 
-I like turning ideas into **clean, scalable products** — with a strong backend,
-a thoughtful frontend, and an obsession with making things actually work.
+I started with the frontend. Now I'm going deeper into the **backend systems behind the products I build**.
+
+**70% backend · 30% frontend · 100% product**
 
 [![GitHub](https://img.shields.io/badge/GitHub-iamsyedbilal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamsyedbilal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedbilal.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedbilal.vercel.app)
@@ -15,22 +16,22 @@ a thoughtful frontend, and an obsession with making things actually work.
 
 ---
 
-## 🧠 What I'm about
+## 🧠 Where I'm heading
 
-I'm a developer who started from the frontend and is now going deeper into **backend engineering and full-stack development**.
+I'm on my way from **frontend development → full-stack development → backend engineering**.
 
-My current philosophy is simple:
+I don't just want to build interfaces. I want to understand what happens behind them — how data is modeled, how APIs are designed, how authentication works, how business logic is organized, how systems stay secure, and how applications scale as they grow.
 
-> **70% backend. 30% frontend. 100% product.**
+Right now I'm focused on:
 
-I care about more than making a UI look good. I want to understand the systems behind it — authentication, databases, APIs, architecture, security, performance, and the decisions that make a product maintainable as it grows.
-
-- 🏗️ Building full-stack SaaS products
-- 🔐 Learning deeper backend & authentication patterns
-- 🗄️ Designing PostgreSQL / Supabase data architectures
-- ⚡ Working with Next.js, TypeScript & modern React
-- 🧩 Improving system design and clean architecture
-- 📚 Learning by building real projects, not just tutorials
+- 🏗️ Backend architecture & clean architecture
+- 🗄️ PostgreSQL & database design
+- 🔌 REST APIs & server-side business logic
+- 🔐 Authentication, authorization & security
+- 🧪 Testing and reliable backend code
+- 🐳 Docker, CI/CD & deployment
+- ⚙️ System design and scalable application architecture
+- 🎨 Keeping my frontend skills strong enough to build the complete product
 
 ---
 
@@ -40,30 +41,31 @@ I care about more than making a UI look good. I want to understand the systems b
 
 A modern SaaS platform for freelancers and agencies to manage **clients, projects, invoices, analytics, automation, and client portals** in one place.
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase
+**Stack:** Next.js · TypeScript · Supabase · PostgreSQL
 
-> This is currently my main project — and a big part of my journey toward becoming a stronger backend-focused full-stack developer.
+ClientFlow is currently my main playground for learning how to structure a growing production-style application — especially its **database, authentication, services, business logic, and architecture**.
+
+> The goal isn't just to make it work. It's to understand why it works and build it properly.
 
 ---
 
 ## 🛠️ My Stack
 
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ### Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Tools & Workflow
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -71,50 +73,58 @@ A modern SaaS platform for freelancers and agencies to manage **clients, project
 
 ---
 
-## 🔥 Projects I've built
+## 🔥 Selected Projects
 
-| Project | What it is | Stack |
+I keep my profile focused on projects that show **real product work, full-stack thinking, and the direction I'm heading**.
+
+| Project | What it shows | Stack |
 |---|---|---|
-| **[ClientFlow](https://github.com/iamsyedbilal/clientflow)** | SaaS platform for freelancers & agencies | Next.js · TypeScript · Supabase |
-| **[RestoMetrics](https://github.com/iamsyedbilal/RestoMetrics)** | Restaurant analytics & management dashboard | React · TypeScript · Supabase |
-| **[Bookmark Manager](https://github.com/iamsyedbilal/bookmark_manager)** | Full-stack bookmark manager with auth, search & filters | React · TypeScript · Supabase |
-| **[BlogSphere](https://github.com/iamsyedbilal/BlogSphere)** | Full-stack blogging platform with rich text editing | React · Appwrite · Redux Toolkit |
-| **[CheckInPro](https://github.com/iamsyedbilal/checkInPro)** | Hotel management dashboard | React · Supabase · Recharts |
-| **[NetflixGPT](https://github.com/iamsyedbilal/NetflixGPT)** | Netflix-inspired app with AI-powered discovery | React · AI · APIs |
-| **[Frontend Mentor](https://github.com/iamsyedbilal/frontendMentor)** | 19+ pixel-perfect UI challenges | HTML · CSS · JavaScript |
+| **[RestoMetrics](https://github.com/iamsyedbilal/RestoMetrics)** | Restaurant analytics & management SaaS | React · TypeScript · Supabase |
+| **[API](https://github.com/iamsyedbilal/api)** | Backend/API-focused work | Node.js · TypeScript |
+| **[Bookmark Manager](https://github.com/iamsyedbilal/bookmark_manager)** | Auth, data, search & full-stack CRUD | React · TypeScript · Supabase |
+| **[CheckInPro](https://github.com/iamsyedbilal/checkInPro)** | Hotel management dashboard | React · Supabase |
+| **[NetflixGPT](https://github.com/iamsyedbilal/NetflixGPT)** | APIs + AI-powered product experience | React · AI · APIs |
+| **[BlogSphere](https://github.com/iamsyedbilal/BlogSphere)** | Full-stack application architecture | React · Appwrite · Redux Toolkit |
 
-[→ Explore all my repositories](https://github.com/iamsyedbilal?tab=repositories)
+### 🏗️ Main project
+
+**ClientFlow** is currently private while I work on its architecture and backend foundation. It will be the project I use to demonstrate how I'm growing from building interfaces to building **complete systems**.
+
+[→ Explore my public repositories](https://github.com/iamsyedbilal?tab=repositories)
 
 ---
 
-## 📈 The journey
+## 📈 The Journey
 
 ```text
-Frontend Developer
-       ↓
+Frontend
+   ↓
 React + TypeScript
-       ↓
+   ↓
 Full-Stack Development
-       ↓
+   ↓
+APIs + Databases + Authentication
+   ↓
 Backend Engineering
-       ↓
+   ↓
 System Design + Architecture
-       ↓
-Building production-grade SaaS 🚀
+   ↓
+Production-grade systems 🚀
 ```
 
-I'm not trying to learn everything at once. I'm focused on becoming the kind of developer who can take a product from **idea → database → API → UI → deployment** and understand every important layer in between.
+I'm not trying to collect every technology. I'm trying to build enough depth that I can take a product from **idea → database → API → business logic → UI → deployment** and understand every important layer.
 
 ---
 
-## ⚡ A few things about me
+## ⚡ A little about me
 
 - 🇵🇰 Based in Karachi, Pakistan
-- 💻 I enjoy building dashboards, SaaS products, APIs, and developer-focused projects
-- 🧠 Currently going deeper into backend engineering, databases, architecture, and system design
-- 🎯 Long-term goal: become a **strong backend-focused full-stack engineer**
-- 🧱 I prefer building real projects over collecting tutorials
-- ☕ Most bugs become easier after staring at them for long enough
+- 💻 I enjoy building SaaS products, dashboards, APIs, and practical tools
+- 🧠 Currently going deeper into backend engineering
+- 🗄️ Spending more time thinking about data and architecture than UI animations 😄
+- 🎯 Long-term goal: become a **strong backend engineer who can still build a great frontend**
+- 🧱 I learn best by building real things
+- ☕ Most bugs eventually lose if you stare at them long enough
 
 ---
 
@@ -147,6 +157,6 @@ I'm always interested in **building, learning, collaborating, and talking tech**
 
 ### Building. Breaking. Learning. Rebuilding. 🚀
 
-**One project at a time.**
+**One system at a time.**
 
 </div>
