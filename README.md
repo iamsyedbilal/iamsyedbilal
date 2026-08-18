@@ -121,13 +121,13 @@ I'm actively developing my backend engineering skills:
 ### Databases & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=,mongodb,supabase" />
 </p>
 
 ### Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
 ---
