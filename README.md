@@ -1,10 +1,10 @@
 <div align="center">
 
-# Syed Bilal
+# SYED BILAL
 
-### Full-Stack Developer · Growing into Backend Engineering
+### Full-Stack Developer · Product Builder · Systems Learner
 
-Building modern web products with **React, Next.js, TypeScript, Node.js & PostgreSQL.**
+I build modern web products and I'm going deeper into **backend engineering, databases, security, and system design.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://syedbilal.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsyedbilal)
@@ -14,90 +14,127 @@ Building modern web products with **React, Next.js, TypeScript, Node.js & Postgr
 
 ---
 
-## About
+## ⚡ What I Do
 
-I'm a **JavaScript / TypeScript developer** with a frontend foundation, currently going deeper into **backend engineering, databases, APIs, and system design**.
-
-I enjoy taking products from **UI → API → database → deployment**.
+I like taking an idea all the way from **interface → API → database → deployment**.
 
 ```text
-Frontend → Full-Stack → Backend → Systems → AI
+Idea
+  ↓
+Design
+  ↓
+Frontend
+  ↓
+Backend
+  ↓
+Database
+  ↓
+Security
+  ↓
+Deployment
+  ↓
+Ship 🚀
 ```
+
+My goal isn't just to make things work — it's to understand **why they work, how they fail, and how to build them better.**
 
 ---
 
-## Tech
+## 🏗️ Currently Building
 
-**Languages**  
-`JavaScript` `TypeScript` `SQL`
+### `ClientFlow`
 
-**Frontend**  
-`React` `Next.js` `Tailwind CSS` `Redux`
+A modern SaaS platform for freelancers to manage their client workflow in one place.
 
-**Backend**  
-`Node.js` `REST APIs`
+**Clients → Projects → Invoices → Analytics → Automation → Client Portal**
 
-**Database**  
+`Next.js` `TypeScript` `Tailwind` `Supabase` `PostgreSQL`
+
+**Status:** `Building in public · one feature at a time`
+
+---
+
+## 🧰 My Stack
+
+### Frontend
+
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Redux`
+
+### Backend
+
+`Node.js` `REST APIs` `Authentication` `Server-side Architecture`
+
+### Data
+
 `PostgreSQL` `Supabase` `MongoDB` `Redis`
 
-**Tools**  
+### Engineering
+
 `Git` `GitHub` `Docker` `Linux` `Vercel`
 
 ---
 
-## Featured Projects
+## 🚀 Selected Projects
 
-### 🚀 ClientFlow
-SaaS platform for freelancers and agencies.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` · **Private / In Development**
-
-### 📊 RestoMetrics
-Restaurant analytics & management platform.
-
-`React` `TypeScript` `Supabase` · [Repository →](https://github.com/iamsyedbilal/RestoMetrics)
-
-### ⚙️ API
-Backend-focused project exploring API architecture.
-
-`Node.js` `TypeScript` · [Repository →](https://github.com/iamsyedbilal/api)
-
-### 🔖 Bookmark Manager
-Full-stack bookmark management with authentication and search.
-
-`React` `TypeScript` `Supabase` · [Repository →](https://github.com/iamsyedbilal/bookmark_manager)
-
-### 🎬 NetflixGPT
-AI-powered movie discovery application.
-
-`React` `AI` `APIs` · [Repository →](https://github.com/iamsyedbilal/NetflixGPT)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **ClientFlow** | Freelancer SaaS platform | Next.js · TypeScript · Supabase |
+| **RestoMetrics** | Restaurant analytics platform | React · TypeScript · Supabase |
+| **API** | Backend/API architecture project | Node.js · TypeScript |
+| **Bookmark Manager** | Authenticated bookmark manager | React · TypeScript · Supabase |
+| **NetflixGPT** | AI-powered movie discovery | React · AI · APIs |
 
 ---
 
-## Frontend
+## 🎨 Frontend Foundation
 
-My frontend foundation includes **19+ Frontend Mentor challenges**, **550+ points**, and **Level 3**.
+Before going deep into backend engineering, I spent a lot of time sharpening my frontend fundamentals.
+
+**19+ Frontend Mentor challenges · 550+ points · Level 3**
 
 `Responsive UI` `Accessibility` `CSS` `React` `Design → Code`
 
-[→ View all Frontend Mentor projects](https://iamsyedbilal.github.io/frontendMentor/)
+[→ Explore my frontend work](https://iamsyedbilal.github.io/frontendMentor/)
 
 ---
 
-## Currently Learning
+## 🔐 What I'm Learning Now
 
-`Node.js` · `PostgreSQL` · `REST APIs` · `Authentication` · `Security` · `Testing` · `Docker` · `Linux` · `Networking` · `System Design`
+```text
+Backend Engineering       █████████░  90%
+PostgreSQL & Databases    ████████░░  80%
+Authentication & Security ███████░░░  70%
+Testing                   ██████░░░░  60%
+Docker & Linux            ██████░░░░  60%
+Networking                █████░░░░░  50%
+System Design             ████░░░░░░  40%
+AI Engineering            ██░░░░░░░░  20%
+```
+
+> The percentages are a snapshot of what I'm focusing on — not a measure of expertise.
 
 ---
 
-## Direction
+## 🧠 Engineering Principles
+
+- **Simple beats clever.**
+- **Architecture should serve the product.**
+- **Security is part of the feature.**
+- **Databases deserve thoughtful design.**
+- **Testing should give confidence, not just coverage.**
+- **Readable code scales better than heroic code.**
+- **Debugging is part of development.**
+
+---
+
+## 🧭 Where I'm Going
 
 ```text
 Frontend
    ↓
 Full-Stack
    ↓
-Backend
+Backend Engineering
    ↓
 System Design
    ↓
@@ -106,7 +143,39 @@ Scalable Systems
 AI Engineering
 ```
 
-> **Learn → Build → Break → Debug → Improve.**
+I'm building toward becoming the kind of engineer who can take a product from **zero → production** and understand every important layer along the way.
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamsyedbilal&show_icons=true&hide_border=true&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsyedbilal&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+</div>
+
+---
+
+## 💭 The Loop
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↺
+```
+
+That's pretty much how I spend my time.
 
 ---
 
@@ -114,6 +183,6 @@ AI Engineering
 
 ### Building systems, not just features.
 
-**One project at a time.**
+**One project at a time.** 🚀
 
 </div>
