@@ -147,14 +147,22 @@ I'm building toward becoming the kind of engineer who can take a product from **
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamsyedbilal&show_icons=true&hide_border=true&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsyedbilal&layout=compact&hide_border=true&theme=transparent" height="165" />
+| Focus | Current direction |
+| :--- | :--- |
+| 🏗️ Building | SaaS products & backend systems |
+| 🔐 Deepening | Authentication & security |
+| 🗄️ Exploring | PostgreSQL & database architecture |
+| 🧪 Improving | Testing & reliability |
+| ☁️ Shipping | Vercel, Docker & Linux |
+| 🤖 Eventually | AI engineering |
 
 </div>
+
+> GitHub already shows my contribution graph, activity, repositories, achievements, and pinned projects directly on my profile — so this README keeps the focus on **what I'm building and where I'm heading.**
 
 ---
 
