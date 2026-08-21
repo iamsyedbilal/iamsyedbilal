@@ -8,7 +8,7 @@ I build web products and go deep into the systems behind them.
 
 **Backend · Databases · Security · System Design**
 
-[Portfolio](https://syedbilal.vercel.app) · [GitHub](https://github.com/iamsyedbilal) · [X](https://twitter.com/SyedBilal200)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://syedbilal.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsyedbilal) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SyedBilal200)
 
 </div>
 
