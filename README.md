@@ -83,6 +83,19 @@ That's the loop.
 
 ---
 
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=iamsyedbilal&theme=github-compact&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub Contribution Activity Graph"
+/>
+
+</div>
+
+
 <div align="center">
 
 ### Building systems, not just features.
