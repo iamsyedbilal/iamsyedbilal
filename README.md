@@ -88,23 +88,6 @@ That's the loop.
 
 ---
 
-## 📊 Profile Summary
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsyedbilal&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamsyedbilal&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamsyedbilal&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamsyedbilal&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsyedbilal&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
----
-
-
 <div align="center">
 
 ### Building systems, not just features.
