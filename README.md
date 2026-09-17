@@ -2,9 +2,12 @@
 
 # SYED BILAL
 
-### I build the things behind the things.
+**Backend Engineer · Full-Stack Developer**
 
-**Backend · Systems · Security · Databases**
+I build systems, APIs, and products —  
+then go deeper to understand what happens underneath.
+
+<br>
 
 [Portfolio](https://syedbilal.vercel.app) · [GitHub](https://github.com/iamsyedbilal) · [X](https://twitter.com/SyedBilal200)
 
@@ -12,65 +15,86 @@
 
 <br>
 
-<div align="center">
+---
+
+### `01` — NOW
+
+> **Building systems, not just features.**
+
+Currently going deeper into:
+
+`Backend Architecture` · `PostgreSQL` · `Authentication & Security` · `Testing` · `Linux` · `Docker` · `System Design` · `AI Engineering`
+
+<br>
+
+### `02` — SELECTED WORK
+
+**ClientFlow**  
+Freelancer SaaS platform
+
+**RestoMetrics**  
+Restaurant analytics platform
+
+**NetflixGPT**  
+AI-powered movie discovery
+
+**Bookmark Manager**  
+Authenticated bookmark management
+
+**URL Shortener**  
+Backend-focused system with authentication, sessions, rate limiting and testing
+
+<br>
+
+### `03` — ENGINEERING PHILOSOPHY
 
 ```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│   FULL-STACK DEVELOPER  →  BACKEND ENGINEER    │
-│                                                 │
-│   APIs        databases        auth             │
-│   systems     testing          infrastructure  │
-│                                                 │
-└─────────────────────────────────────────────────┘
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+REPEAT
 ```
 
-</div>
+I don't just want to know **how** something works.
+
+I want to understand **why it works, how it breaks, and how to build it better.**
 
 <br>
 
-## `01` / WHAT I DO
+### `04` — STACK
 
-I build web products, but I care most about **what happens underneath** — architecture, data, authentication, failure cases, performance, and the systems connecting everything together.
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Tailwind
 
-<br>
+**Backend**  
+Node.js · REST APIs · PostgreSQL · MongoDB · Redis
 
-## `02` / CURRENTLY
-
-`Node.js` · `TypeScript` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Linux` · `System Design`
-
-<br>
-
-## `03` / THINGS I'VE BUILT
-
-| | Project | What it is |
-|---|---|---|
-| `01` | **ClientFlow** | Freelancer SaaS platform |
-| `02` | **RestoMetrics** | Restaurant analytics platform |
-| `03` | **URL Shortener** | Auth · sessions · rate limiting · testing |
-| `04` | **NetflixGPT** | AI-powered movie discovery |
+**Infrastructure**  
+Docker · Linux · Vercel · Git
 
 <br>
 
-## `04` / THE LOOP
+---
 
 <div align="center">
 
-**BUILD** → **BREAK** → **DEBUG** → **UNDERSTAND** → **IMPROVE**
+### CONTRIBUTIONS
 
-</div>
-
-> I don't just want to know **how** something works.
-> I want to understand **why it works, how it breaks, and how to build it better.**
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsyedbilal&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsyedbilal&theme=github_dark"
+  width="100%"
+  alt="GitHub contribution activity"
+/>
 
 <br><br>
 
-**quietly building · deeply learning · consistently shipping**
+<sub>building quietly · learning deeply · shipping consistently</sub>
 
 </div>
