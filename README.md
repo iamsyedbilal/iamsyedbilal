@@ -2,96 +2,97 @@
 
 # SYED BILAL
 
-### Full-Stack Developer → Backend Engineer
+**Backend Engineer · Full-Stack Developer**
 
-I build web products and go deep into the systems behind them.
+I build systems, APIs, and products —  
+then go deeper to understand what happens underneath.
 
-**Backend · Databases · Security · System Design**
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://syedbilal.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamsyedbilal) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SyedBilal200)
+[Portfolio](https://syedbilal.vercel.app) · [GitHub](https://github.com/iamsyedbilal) · [X](https://twitter.com/SyedBilal200)
 
 </div>
 
----
-
-
-### 🛠️ My Stack
-
-**Frontend**
-React · Next.js · TypeScript · JavaScript · Tailwind
-
-**Backend**
-Node.js · REST APIs · Authentication · PostgreSQL · MongoDB · Redis
-
-**Tools**
-Git · Docker · Linux · Vercel
+<br>
 
 ---
 
-### 🧠 Currently Going Deeper
+### `01` — NOW
+
+> **Building systems, not just features.**
+
+Currently going deeper into:
+
+`Backend Architecture` · `PostgreSQL` · `Authentication & Security` · `Testing` · `Linux` · `Docker` · `System Design` · `AI Engineering`
+
+<br>
+
+### `02` — SELECTED WORK
+
+**ClientFlow**  
+Freelancer SaaS platform
+
+**RestoMetrics**  
+Restaurant analytics platform
+
+**NetflixGPT**  
+AI-powered movie discovery
+
+**Bookmark Manager**  
+Authenticated bookmark management
+
+**URL Shortener**  
+Backend-focused system with authentication, sessions, rate limiting and testing
+
+<br>
+
+### `03` — ENGINEERING PHILOSOPHY
 
 ```text
-Node.js
-   ↓
-PostgreSQL
-   ↓
-Authentication & Security
-   ↓
-Testing
-   ↓
-Linux & Networking
-   ↓
-Docker & AWS
-   ↓
-System Design
-   ↓
-AI Engineering
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+REPEAT
 ```
 
 I don't just want to know **how** something works.
 
 I want to understand **why it works, how it breaks, and how to build it better.**
 
----
+<br>
 
-### 🚀 Projects
+### `04` — STACK
 
-| Project              | Description                    |
-| -------------------- | ------------------------------ |
-| **ClientFlow**       | Freelancer SaaS platform       |
-| **RestoMetrics**     | Restaurant analytics platform  |
-| **NetflixGPT**       | AI-powered movie discovery     |
-| **Bookmark Manager** | Authenticated bookmark manager |
-| **API**              | Node.js backend architecture   |
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Tailwind
 
----
+**Backend**  
+Node.js · REST APIs · PostgreSQL · MongoDB · Redis
 
-### 🔁 How I Learn
+**Infrastructure**  
+Docker · Linux · Vercel · Git
 
-**Learn → Build → Break → Debug → Understand → Improve**
-
-That's the loop.
+<br>
 
 ---
-
-## 📊 Contribution Activity
 
 <div align="center">
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=iamsyedbilal&theme=github-compact&hide_border=true&area=true"
   width="100%"
-  alt="GitHub Contribution Activity Graph"
+  alt="GitHub contribution activity"
 />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### Building systems, not just features.
-
-**One project at a time. 🚀**
+<sub>building quietly · learning deeply · shipping consistently</sub>
 
 </div>
