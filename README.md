@@ -2,10 +2,9 @@
 
 # SYED BILAL
 
-**Backend Engineer · Full-Stack Developer**
+### Backend Engineer · Full-Stack Developer
 
-I build systems, APIs, and products —  
-then go deeper to understand what happens underneath.
+I build **APIs, systems, and full-stack products** with a focus on clean architecture, authentication, authorization, and real-world workflows.
 
 <br>
 
@@ -13,11 +12,9 @@ then go deeper to understand what happens underneath.
 
 </div>
 
-<br>
-
 ---
 
-### `01` — NOW
+## `01` — CURRENT FOCUS
 
 > **Building systems, not just features.**
 
@@ -25,28 +22,48 @@ Currently going deeper into:
 
 `Backend Architecture` · `PostgreSQL` · `Authentication & Security` · `Testing` · `Linux` · `Docker` · `System Design` · `AI Engineering`
 
-<br>
+---
 
-### `02` — SELECTED WORK
+## `02` — FEATURED PROJECT
 
-**ClientFlow**  
-Freelancer SaaS platform
+### 🚀 [Project Management System](https://github.com/iamsyedbilal/project_management_system)
 
-**RestoMetrics**  
-Restaurant analytics platform
+A full-stack workspace for teams to manage:
 
-**NetflixGPT**  
-AI-powered movie discovery
+**Projects → Members → Tasks → Subtasks → Notes**
 
-**Bookmark Manager**  
-Authenticated bookmark management
+Built with:
 
-**URL Shortener**  
-Backend-focused system with authentication, sessions, rate limiting and testing
+`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `MongoDB` · `Mongoose` · `JWT`
 
-<br>
+- 🔐 JWT authentication with refresh-token flow
+- 🛡️ Backend-enforced role-based permissions
+- 👥 Project-level member management
+- ✅ Task assignment and status tracking
+- 🧩 Hierarchical subtasks
+- 📎 Multiple task attachments
+- 📝 Project notes
+- 📧 Email verification and password recovery
+- 🧱 Layered backend architecture
 
-### `03` — ENGINEERING PHILOSOPHY
+**[View the project →](https://github.com/iamsyedbilal/project_management_system)**
+
+---
+
+## `03` — SELECTED WORK
+
+| Project | What it is |
+|---|---|
+| **Project Management System** | Full-stack team/project workspace |
+| **ClientFlow** | Freelancer SaaS platform |
+| **RestoMetrics** | Restaurant analytics platform |
+| **NetflixGPT** | AI-powered movie discovery |
+| **Bookmark Manager** | Authenticated bookmark management |
+| **URL Shortener** | Backend-focused system with auth, sessions, rate limiting and testing |
+
+---
+
+## `04` — ENGINEERING PHILOSOPHY
 
 ```text
 BUILD
@@ -66,32 +83,29 @@ I don't just want to know **how** something works.
 
 I want to understand **why it works, how it breaks, and how to build it better.**
 
-<br>
+---
 
-### `04` — STACK
+## `05` — STACK
 
-**Frontend**  
-React · Next.js · TypeScript · JavaScript · Tailwind
+**Frontend**
 
-**Backend**  
-Node.js · REST APIs · PostgreSQL · MongoDB · Redis
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-**Infrastructure**  
+**Backend**
+
+Node.js · Express · REST APIs · PostgreSQL · MongoDB · Redis
+
+**Infrastructure**
+
 Docker · Linux · Vercel · Git
-
-<br>
 
 ---
 
 <div align="center">
 
-### CONTRIBUTIONS
+### BUILDING IN PUBLIC
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsyedbilal&theme=github_dark"
-  width="100%"
-  alt="GitHub contribution activity"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsyedbilal&theme=github_dark" width="100%" alt="GitHub contribution activity" />
 
 <br><br>
 
